@@ -1,0 +1,15 @@
+# Deep Learning & Vision
+torch>=1.13.0
+torchvision>=0.14.0
+
+# Data Manipulation & Splitting
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Optional: Jupyter environment for notebooks
+jupyter>=1.0.0
+notebook>=6.4.0
